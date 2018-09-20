@@ -10,5 +10,5 @@ Output: 9,8,7,5
 Input: 10,9,8,7,11
 Output: 11,10,9,8,7
 
-Input: 6,7,8
-Output: 8,7,6
+Input: 
+Output: Your array is empty.
